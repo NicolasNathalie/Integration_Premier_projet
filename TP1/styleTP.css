@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    margin: auto;
+}
+.conteneur{
+    text-align: center; 
+}
+.itin{
+    padding-bottom: 3%;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black ;
+    width: 90%;
+    padding: 10%;
+    margin: auto;
+}
+th, td{
+    border: 1px solid black; padding: 10px;
+}
+.contact{
+    width: 50%;
+    text-align: center;
+    margin:auto;
+}
+.coordonnes{
+    width:50%; 
+    border: 1px solid black;
+    text-align: left;
+    margin: auto;
+}
+.image{
+    width: 70%;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
